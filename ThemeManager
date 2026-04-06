@@ -47,14 +47,16 @@ do
     ThemeManager.Library = nil
     ThemeManager.AppliedToTab = false
     ThemeManager.BuiltInThemes = {
-        ["Default"] = {
+        ["PornoHub"] = {
             1,
-            { FontColor = "ffffff", MainColor = "000000", AccentColor = "#0000ff", BackgroundColor = "000000", OutlineColor = "141414" },
+            { FontColor = "#FFFFFF", MainColor = "#1A1A1A", AccentColor = "#FF9000", BackgroundColor = "#0D0D0D", OutlineColor = "#2A2A2A" },
         },
-        ["BBot"] = {
-            2,
-            { FontColor = "ffffff", MainColor = "1e1e1e", AccentColor = "7e48a3", BackgroundColor = "232323", OutlineColor = "141414" },
+
+        ["Fatality"] = {
+            3,
+            { FontColor = "ffffff", MainColor = "1e1842", AccentColor = "c50754", BackgroundColor = "191335", OutlineColor = "3c355d" },
         },
+
         ["Fatality"] = {
             3,
             { FontColor = "ffffff", MainColor = "1e1842", AccentColor = "c50754", BackgroundColor = "191335", OutlineColor = "3c355d" },
