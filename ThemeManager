@@ -75,11 +75,7 @@ do
             7,
             { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#4A4A4A" },
         },
-        ["Skeet"] = {
-            7,
-            { FontColor = "#FFFFFF", MainColor = "#141414", AccentColor = "#00ff64", BackgroundColor = "#000000", OutlineColor = "#1f1f1f" },
-
-        },
+        
         ["AmongusHook"] = {
             8,
             { FontColor = "#FFFFFF", MainColor = "#292929", AccentColor = "#ff3200", BackgroundColor = "#292929", OutlineColor = "#000000" }
