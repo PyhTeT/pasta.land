@@ -65,15 +65,20 @@ do
         },
         ["LowCortisol"] = {
             5,
-            { FontColor = "ffffff", MainColor = "242424", AccentColor = "3db488", BackgroundColor = "1c1c1c", OutlineColor = "373737" },
+            { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#4A4A4A" },
         },
         ["ObsidianLibraly"] = {
             6,
             { FontColor = "ffffff", MainColor = "191919", AccentColor = "7d55ff", BackgroundColor = "0f0f0f", OutlineColor = "282828" },
         },
-        ["Ubuntu"] = {
+        ["Skeet"] = {
             7,
-            { FontColor = "ffffff", MainColor = "3e3e3e", AccentColor = "e2581e", BackgroundColor = "323232", OutlineColor = "191919" },
+            { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#4A4A4A" }
+        },
+
+        ["Skeet"] = {
+            7,
+            { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#4A4A4A" }
         },
     }
 
