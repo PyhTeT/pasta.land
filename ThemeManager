@@ -65,7 +65,7 @@ do
         },
         ["LowCortisol"] = {
             5,
-            { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#4A4A4A" },
+            { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#2e2e2e" },
         },
         ["ObsidianLibraly"] = {
             6,
@@ -73,7 +73,7 @@ do
         },
         ["Skeet"] = {
             7,
-            { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#4A4A4A" },
+            { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#1f1f1f" },
         },
         
         ["AmongusHook"] = {
