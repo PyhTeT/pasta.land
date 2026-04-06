@@ -63,7 +63,8 @@ do
         },
         ["Jester"] = {
             4,
-            { FontColor = "ffffff", MainColor = "242424", AccentColor = "db4467", BackgroundColor = "1c1c1c", OutlineColor = "373737" },
+            { FontColor = "#E6E6FA", MainColor = "#12122B", AccentColor = "#6C3BFF", BackgroundColor = "#0A0A1A", OutlineColor = "#2B2B5A" },
+
         },
         ["Mint"] = {
             5,
