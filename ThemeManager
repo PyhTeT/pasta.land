@@ -47,6 +47,10 @@ do
     ThemeManager.Library = nil
     ThemeManager.AppliedToTab = false
     ThemeManager.BuiltInThemes = {
+        ["Pasta.land"] = {
+            1,
+            { FontColor = "#FFFFFF", MainColor = "#1A1A1A", AccentColor = "#0000ff", BackgroundColor = "#0D0D0D", OutlineColor = "#2A2A2A" },
+        },
         ["PornHub"] = {
             1,
             { FontColor = "#FFFFFF", MainColor = "#1A1A1A", AccentColor = "#FF9000", BackgroundColor = "#0D0D0D", OutlineColor = "#2A2A2A" },
