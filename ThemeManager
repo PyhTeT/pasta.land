@@ -49,39 +49,39 @@ do
     ThemeManager.BuiltInThemes = {
         ["Pasta.land"] = {
             1,
-            { FontColor = "#FFFFFF", MainColor = "#1A1A1A", AccentColor = "#0000ff", BackgroundColor = "#0D0D0D", OutlineColor = "#2A2A2A" },
+            { FontColor = "ffffff", MainColor = "#000000", AccentColor = "#0000ff", BackgroundColor = "#000000", OutlineColor = "#141414" },
         },
         ["PornHub"] = {
-            1,
+            2,
             { FontColor = "#FFFFFF", MainColor = "#1A1A1A", AccentColor = "#FF9000", BackgroundColor = "#0D0D0D", OutlineColor = "#2A2A2A" },
         },
         ["AV∅X"] = {
-            2,
+            3,
             { FontColor = "ffffff", MainColor = "#000000", AccentColor = "#ff0000", BackgroundColor = "#000000", OutlineColor = "#141414" },
         },
         ["Fatality"] = {
-            3,
+            4,
             { FontColor = "ffffff", MainColor = "1e1842", AccentColor = "c50754", BackgroundColor = "191335", OutlineColor = "3c355d" },
         },
         ["NeverLose"] = {
-            4,
+            5,
             { FontColor = "#C7D0E0", MainColor = "#0E1624", AccentColor = "#2F74FF", BackgroundColor = "#0A0F1A", OutlineColor = "#1F2A3A" },
         },
         ["LowCortisol"] = {
-            5,
+            6,
             { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#2e2e2e" },
         },
-        ["ObsidianLibraly"] = {
-            6,
+        ["Obsidian"] = {
+            7,
             { FontColor = "ffffff", MainColor = "191919", AccentColor = "7d55ff", BackgroundColor = "0f0f0f", OutlineColor = "282828" },
         },
         ["Skeet"] = {
-            7,
+            8,
             { FontColor = "#FFFFFF", MainColor = "#202020", AccentColor = "#2BE4B8", BackgroundColor = "#121212", OutlineColor = "#1f1f1f" },
         },
         
         ["AmongusHook"] = {
-            8,
+            9,
             { FontColor = "#FFFFFF", MainColor = "#292929", AccentColor = "#ff3200", BackgroundColor = "#292929", OutlineColor = "#000000" }
         },
     }
@@ -332,7 +332,7 @@ do
         groupbox:AddLabel("Font color"):AddColorPicker("FontColor", { Default = self.Library.Scheme.FontColor })
         groupbox:AddDropdown("FontFace", {
             Text = "Font Face",
-            Default = "BuilderSans",
+            Default = "Jura",
             Values = { "BuilderSans", "Code", "Fantasy", "Gotham", "Jura", "Roboto", "RobotoMono", "SourceSans" },
         })
 
